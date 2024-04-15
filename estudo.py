@@ -1,1 +1,1 @@
-print("oi vagaba")
+print("oi vagaba, me arranja um emprego?")
